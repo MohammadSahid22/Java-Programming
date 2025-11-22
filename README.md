@@ -1,6 +1,5 @@
 <!-- 🔥 NEON JAVA PROGRAMMING BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/6YVw3Fq.gif" width="80%" alt="🔥 Java Programs Banner">
 </p>
 
 <h1 align="center">⚡ JAVA PROGRAMS REPOSITORY ⚡</h1>
@@ -41,4 +40,4 @@
 
 ---
 
-## 📦 **🗂️ List of Java Files**
+
