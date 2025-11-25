@@ -7,7 +7,7 @@
 
 ---
 
-## 🌈 **🚀 Program List (Neon Styled)**
+## 🌈 **🚀 Program List **
 
 ### 🔥 **Basic Java Programs**
 - ➕ Add Two Numbers  
