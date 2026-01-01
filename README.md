@@ -23,6 +23,31 @@
 
 ---
 
+<div align="center" style="border: 2px solid #00f7ff; border-radius:12px; padding:14px; background: linear-gradient(180deg, rgba(0,0,0,0.55), rgba(0,0,0,0.15));">
+
+  <h2 style="color:#bffcff; margin:6px 0;">🔥 Project List</h2>
+
+  ### 📁 Basic Programs
+  - 🧮 **Hello World & First Java Program**
+  - 🔤 **String Manipulation Examples**
+  - 🔢 **Math Logic Programs**
+
+  ### 🧠 Object-Oriented Concepts
+  - 👤 **Classes & Objects**
+  - 🧩 **Inheritance Example**
+  - 📦 **Polymorphism & Abstraction Samples**
+
+  ### 🛠️ File & Data Handling
+  - 📂 **File Read / Write**
+  - 📊 **Data Processing Examples**
+
+  ### 🧪 Misc Projects
+  - 📋 **User Input Utilities**
+  - 🔄 **Flow Control Demos**
+  - 📐 **Logic & Algorithms**
+
+</div>
+
 ## 📘 **✨ Program Descriptions**
 
 | Program Name | Description |
@@ -37,6 +62,9 @@
 | **PosNegZero.java** | Determines if a number is positive, negative, or zero. |
 | **PrintNumbers.java** | Prints 1 to N using loop. |
 | **ReverseNumber.java** | Reverses a given number. |
+
+
+
 
 ---
 
