@@ -25,7 +25,7 @@
 
 <div align="center" style="border: 2px solid #00f7ff; border-radius:12px; padding:14px; background: linear-gradient(180deg, rgba(0,0,0,0.55), rgba(0,0,0,0.15));">
 
-  <h2 style="color:#bffcff; margin:6px 0;">🔥 Project List</h2>
+  <h2 style="color:#bffcff; margin:6px 0;">🔥 Program List</h2>
 
   ### 📁 Basic Programs
   - 🧮 **Hello World & First Java Program**
